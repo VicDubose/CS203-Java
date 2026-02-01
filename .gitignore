@@ -1,0 +1,19 @@
+# Java compiled
+*.class
+*.jar
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Java tooling
+.classpath
+.project
+.settings/
+
+# Python junk if any
+__pycache__/
+*.pyc
