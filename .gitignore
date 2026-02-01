@@ -1,19 +1,15 @@
-# Java compiled
+# Java build output
 *.class
 *.jar
+bin/
+out/
 
-# OS junk
-.DS_Store
-Thumbs.db
-
-# VS Code
+# IDE / editor
 .vscode/
-
-# Java tooling
 .classpath
 .project
 .settings/
 
-# Python junk if any
-__pycache__/
-*.pyc
+# OS junk
+.DS_Store
+Thumbs.db
