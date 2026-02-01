@@ -1,0 +1,16 @@
+# Java compiled
+*.class
+*.jar
+
+# Eclipse / IDE stuff
+.classpath
+.project
+.settings/
+bin/
+
+# VS Code
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
