@@ -7,5 +7,9 @@ public class CS203RepoTest {
         System.out.println("Java version: " + System.getProperty("java.version"));
         System.out.println("User: " + System.getProperty("user.name"));
         System.out.println("OS: " + System.getProperty("os.name"));
+        System.out.println("✅ CS203 Repo test is running on tablet");
+        System.out.println("Time: " + LocalDateTime.now());
+        System.out.println("Java version: " + System.getProperty("java.version"));
+        System.out.println("OS: " + System.getProperty("os.name"));
     }
 }
